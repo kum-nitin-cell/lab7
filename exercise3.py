@@ -118,3 +118,7 @@ def test_avl_tree():
 
 if __name__ == "__main__":
     test_avl_tree()
+    """
+    I have updated the test cases just for the reference, you can comment them if not reuired.
+    
+    """
